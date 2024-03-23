@@ -41,8 +41,22 @@ normalization and take lesser training time.
 higher than layer norm and takes much lesser training time. 
 
 ## Missclassified Images
-* CIFAR10 Batch Normalization classifier
 
-* CIFAR10 Batch Normalization classifier
+* **CIFAR10 Batch Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_BN_missclass.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_BN_missclass.png)
+ 
+* **CIFAR10 Layer Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_LN_missclass.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_LN_missclass.png)
+* **CIFAR10 Group Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_gn_missclass.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_gn_missclass.png)
+ 
 
-* CIFAR10 Batch Normalization classifier
+## Model Metrics
+* **CIFAR10 Batch Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_BN_metrics.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_BN_metrics.png)
+  
+* **CIFAR10 Layer Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_LN_metrics.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_LN_metrics.png)
+* **CIFAR10 Group Normalization classifier**
+  ![https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_gn_metrics.png](https://raw.githubusercontent.com/thamizhannal/ERA-V2/main/s8/images/cifar10_gn_metrics.png)
+* 
